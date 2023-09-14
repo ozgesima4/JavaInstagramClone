@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "962725896915",
+    "project_id": "instaclon-11fae",
+    "storage_bucket": "instaclon-11fae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962725896915:android:6392d335898e0f98ae6a26",
+        "android_client_info": {
+          "package_name": "com.sima.javainstagramclone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLw0pVDOAI9zuo9pq2JPZ3vJdMUtG-KR0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
